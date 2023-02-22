@@ -1,6 +1,6 @@
-O Node já vem com o NPM ao ser instalado. 
+O <i>Node.js</i> já vem com o <i>npm</i> ao ser instalado. 
 
-Mas caso precise atualizar a versão do NPM no Windows, pode ser que retorne a mensagem:
+Mas caso precise atualizar a versão do <i>npm</i> no Windows, pode ser que retorne a mensagem:
   ```
   npm ERR! path C:\Program Files\nodejs\npm.cmd
   npm ERR! code EEXIST
