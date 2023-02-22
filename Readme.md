@@ -9,4 +9,4 @@ Para resolver acesse o diretório `C:\Users\yourUser\AppData\Roaming\nvm\vXX.XX.
 - `npx -> npx2`
 - `npx.cmd -> npx2.cmd`
 
-Depois de renomear, execute o comando `npm2 install -g npm@X.XX.X` para atualizar o NPM
+Depois de renomear, execute o comando `npm2 install -g npm@X.XX.X`
