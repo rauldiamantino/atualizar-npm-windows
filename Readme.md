@@ -4,7 +4,8 @@ Mas caso precise atualizar a versão do <i>npm</i> no Windows, pode ser que reto
   ```
   npm ERR! path C:\Program Files\nodejs\npm.cmd
   npm ERR! code EEXIST
-  npm ERR! Refusing to delete C:\Program Files\nodejs\npm.cmd: is outside C:\Program Files\nodejs\node_modules\npm and not a link
+  npm ERR! Refusing to delete C:\Program Files\nodejs\npm.cmd: is outside
+  C:\Program Files\nodejs\node_modules\npm and not a link
   npm ERR! File exists: C:\Program Files\nodejs\npm.cmd
   npm ERR! Move it away, and try again.
   ```
