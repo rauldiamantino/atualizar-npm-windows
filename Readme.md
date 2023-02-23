@@ -1,6 +1,6 @@
-O <i>Node.js</i> já vem com o <i>npm</i> ao ser instalado. 
+O <i>Node.js</i> já vem com o <i>npm</i> ao ser instalado. Para atualizar só o <i>npm</i>, rode o comando: `npm2 install -g npm@X.XX.X`
 
-Mas caso precise atualizar a versão do <i>npm</i> no Windows, pode ser que retorne a mensagem:
+Pode ser que retorne a mensagem:
   ```
   npm ERR! path C:\Program Files\nodejs\npm.cmd
   npm ERR! code EEXIST
