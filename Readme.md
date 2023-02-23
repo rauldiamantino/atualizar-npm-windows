@@ -12,7 +12,7 @@ Pode ser que retorne a mensagem:
   npm ERR! Move it away, and try again.
   ```
 
-Para resolver acesse o diretório `C:\Users\yourUser\AppData\Roaming\nvm\vXX.XX.X)` e renomeie os arquivos:
+Para resolver, acesse o diretório `C:\Users\yourUser\AppData\Roaming\nvm\vXX.XX.X)` e renomeie os arquivos:
 
 - `npm` -> `npm2`
 - `npm.cmd` -> `npm2.cmd`
