@@ -1,3 +1,5 @@
+# Atualizar o npm no Windows
+
 O <i>Node.js</i> já vem com o <i>npm</i> ao ser instalado. Para atualizar só o <i>npm</i>, rode o comando: `npm2 install -g npm@X.XX.X`
 
 Pode ser que retorne a mensagem:
