@@ -17,6 +17,4 @@ Para resolver acesse o diretório `C:\Users\yourUser\AppData\Roaming\nvm\vXX.XX.
 - `npx` -> `npx2`
 - `npx.cmd` -> `npx2.cmd`
 
-Depois de renomear, execute o comando `npm2 install -g npm@X.XX.X`
-
-Volte no diretório `C:\Users\yourUser\AppData\Roaming\nvm\vXX.XX.X)` e exclua os arquivos `npm2`
+Depois de renomear, execute o comando `npm2 install -g npm@X.XX.X`. Novos arquivos `npm` serão criados, então volte no diretório `C:\Users\yourUser\AppData\Roaming\nvm\vXX.XX.X)` e exclua os arquivos `npm2`.
